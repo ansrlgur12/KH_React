@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.title-name{
+  color: royalblue;
+  font-size: 2em;
+}
 
 .App-logo {
   height: 40vmin;
