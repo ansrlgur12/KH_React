@@ -4,7 +4,22 @@
 .title-name{
   color: royalblue;
   font-size: 2em;
+  background-color: orange;
 }
+.nameCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 400px;
+  height: 200px;
+  border: 1px solid hsl(0, 0%, 45%);
+  padding: 15px;
+  margin: 50px;
+}
+.name{
+  font-size: 1.2em;
+}
+
 
 table{
   border-collapse: collapse;
@@ -15,6 +30,10 @@ th, td{
 th{
   background-color: #282c34;
   color: white;
+}
+
+.nL{
+  color: red;
 }
 
 .App-logo {

@@ -8,7 +8,11 @@ import './App.css';
 // import FruitSelect from './0412SelectBox';
 // import RadioButton from './0412RadioBox';
 // import TableMap from './0412TableMap';
-import CreateRef from './0412Ref';
+// import CreateRef from './0412Ref';
+// import MapTest from './0413MapTest';
+// import IterationSample from './0413IterationSample';
+// import UseState from './0413UseState';
+import Practice from './0413Practice';
 
 const App = () => {
   
@@ -23,7 +27,11 @@ const App = () => {
       {/* <FruitSelect/> */}
       {/* <RadioButton/> */}
       {/* <TableMap/> */}
-      <CreateRef/>
+      {/* <CreateRef/> */}
+      {/* <MapTest/> */}
+      {/* <IterationSample /> */}
+      {/* <UseState /> */}
+      <Practice />
     </>
   );
 }
