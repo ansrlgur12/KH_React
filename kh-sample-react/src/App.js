@@ -12,7 +12,8 @@ import './App.css';
 // import MapTest from './0413MapTest';
 // import IterationSample from './0413IterationSample';
 // import UseState from './0413UseState';
-import Practice from './0413Practice';
+// import Practice from './0413Practice';
+import UserState from './0414명함';
 
 const App = () => {
   
@@ -31,7 +32,8 @@ const App = () => {
       {/* <MapTest/> */}
       {/* <IterationSample /> */}
       {/* <UseState /> */}
-      <Practice />
+      {/* <Practice /> */}
+      <UserState />
     </>
   );
 }
