@@ -13,7 +13,12 @@ import './App.css';
 // import IterationSample from './0413IterationSample';
 // import UseState from './0413UseState';
 // import Practice from './0413Practice';
-import UserState from './0414명함';
+// import UserState from './0414명함';
+// import UseEffectInfo from './0417UseEffect';
+// import UseEffectCnt from './0417UseEffect2';
+// import UseEffectClock from './0417UseEffect3';
+// import UseReducerCnt from './0417UseReducer';
+import Average from './0417UseMemo';
 
 const App = () => {
   
@@ -33,7 +38,12 @@ const App = () => {
       {/* <IterationSample /> */}
       {/* <UseState /> */}
       {/* <Practice /> */}
-      <UserState />
+      {/* <UserState /> */}
+      {/* <UseEffectInfo /> */}
+      {/* <UseEffectCnt /> */}
+      {/* <UseEffectClock /> */}
+      {/* <UseReducerCnt /> */}
+      <Average />
     </>
   );
 }
